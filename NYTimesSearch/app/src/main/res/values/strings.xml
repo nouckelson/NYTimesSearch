@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NYTimesSearch</string>
+    <string name="action_settings">Settings</string>
+    <string name="name">NEW BOTTON</string>
+    <string name="hint">Enter search query</string>
+    <string name="text">SEARCH</string>
+    <string name="search">SEARCH</string>
+    <string name="textview">TextView</string>
+    <string name="title_activity_arcticle">ArcticleActivity</string>
+</resources>
